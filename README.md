@@ -1,7 +1,15 @@
-<h3>⚔Stack⚔</h3>
-<p> Techs that I've used at once <p> <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-
+<div style="text-align=center">
+  <h3>⚔Stack⚔</h3>
+  <p> Techs that I've used at once <p> <br>
+  <div style="display:inline">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/CSS3-157286?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
+</div>
 <!--
 **reader-wh94/reader-wh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
