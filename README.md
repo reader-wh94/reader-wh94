@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3>⚔Stack⚔</h3>
+<p> Techs that I've used at once <p> <br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <!--
 **reader-wh94/reader-wh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
