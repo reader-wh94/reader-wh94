@@ -1,4 +1,4 @@
-<div style="text-align=center">
+<div style="align=center">
   <h3>⚔Stack⚔</h3>
   <p> Techs that I've used at once <p> <br>
   <div style="display:inline">
